@@ -1,0 +1,10 @@
+<launch>
+
+    <node pkg ="turtle_watchdog"
+        type="main.py"
+        name="turtle_watchdog_node"
+        output="screen">
+
+  </node>
+
+</launch>
